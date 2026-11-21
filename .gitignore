@@ -1,0 +1,14 @@
+﻿# Java / Maven
+backend/target/
+*.log
+
+# Node / React / Expo
+node_modules/
+mobile-client/.expo/
+web-client/build/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
